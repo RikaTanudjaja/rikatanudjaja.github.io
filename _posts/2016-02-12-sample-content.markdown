@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-date:   2016-02-12 17:50:00
+title:  "Holidays are just around the corner...What is there to do? 🤔"
+date:   2021-11-06 17:00:00
 categories: main
 ---
 
