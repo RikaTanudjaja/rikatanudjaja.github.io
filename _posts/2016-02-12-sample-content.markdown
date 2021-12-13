@@ -8,6 +8,6 @@ categories: main
 layout: default
 title:  "Cyber Monday vs Black Friday: Preference?"
 date:   2021-12-13 13:00:00
-categories: main
+categories: Secondary
 ---
 
